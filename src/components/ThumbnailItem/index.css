@@ -1,0 +1,21 @@
+/* Write your code here. */
+
+.thumbnail-image {
+  height: 30px;
+  width: 30px;
+}
+
+.button {
+  background: transparent;
+  border-width: 0px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.opacity {
+  opacity: 1;
+}
+
+.no-opacity {
+  opacity: 0.6;
+}
